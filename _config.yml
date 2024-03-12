@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Welcome to Rui Gao's Homepage # the website title (if blank, full name will be used instead)
 first_name: Rui
 middle_name: 
 last_name: Gao
@@ -172,7 +172,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
 announcements:
